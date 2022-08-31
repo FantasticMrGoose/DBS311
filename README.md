@@ -1,1 +1,1 @@
-# DBS311 Assignments and projects
+# DBS311 Labs and Projects
